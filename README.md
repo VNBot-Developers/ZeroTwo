@@ -1,0 +1,2 @@
+# ZeroTwo
+ZeroTwo Discord Bot
